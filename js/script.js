@@ -10,10 +10,10 @@ function changeText() {
 
 // change img with source
 function yes() {
-  document.getElementById("changeImg").src = "../images/happy.jpg";
+  document.getElementById("changeImg").src = "images/happy.jpg";
 }
 function no() {
-  document.getElementById("changeImg").src = "../images/smiling.jpg";
+  document.getElementById("changeImg").src = "images/smiling.jpg";
 }
 // change text size
 function changeFontSize() {
